@@ -1,0 +1,32 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.result{
+  height: 50px;
+  background-color: grey;
+  width: 100%;
+}
+
+button{
+  height: 50px;
+  width: 25%;
+  font-size: 30px;
+}
+
+.calculator{
+  max-width: 400px;
+  margin: auto;
+}
+
+.result h3{
+  font-size: 30px;
+  margin: 5px;
+  padding: 5px;
+}
+
+body{
+  font-family: Arial, Helvetica, sans-serif;
+}
